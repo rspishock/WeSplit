@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  WeSplit
+//  We Split
 //
-//  Created by Ryan Spishock on 10/15/19.
-//  Copyright © 2019 Ryan Spishock. All rights reserved.
+//  Created by Ryan Spishock on 1/11/20.
+//  Copyright © 2020 Ryan Spishock. All rights reserved.
 //
 
 import UIKit
